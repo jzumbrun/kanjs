@@ -1,7 +1,7 @@
-kraken-examples
+kanjs
 ===============
 
-These example applications are built with kraken-js v1.0.0.
+kan - krakenjs, angularjs, neo4j
 
 * [`with.bcp47Locale`](with.bcp47Locale) demonstrates changing locales based on language and region together.
 * [`with.i18n`](with.i18n) demonstrates basic internationalization.
